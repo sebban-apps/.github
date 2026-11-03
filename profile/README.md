@@ -7,9 +7,9 @@ Dane zapisują się na Twoim urządzeniu.
 
 | Aplikacja | Do czego służy | Otwórz |
 |---|---|---|
-| **Dziennik** (Journal-PWA) | Prosty timer do nauki | [zagraj](https://sebban-apps.github.io/Journal-PWA/) |
-| **Dziennik treningowy** (training-log) | Zapisywanie treningów i postępów | [zagraj](https://sebban-apps.github.io/training-log/) |
-| **Kalendarz** (Calendar-PWA) | Prosty kalendarz z wydarzeniami | [zagraj](https://sebban-apps.github.io/Calendar-PWA/) |
+| **Dziennik** (Journal-PWA) | Prosty timer do nauki | [otwórz](https://sebban-apps.github.io/Journal-PWA/) |
+| **Dziennik treningowy** (training-log) | Zapisywanie treningów i postępów | [otwórz](https://sebban-apps.github.io/training-log/) |
+| **Kalendarz** (Calendar-PWA) | Prosty kalendarz z wydarzeniami | [otwórz](https://sebban-apps.github.io/Calendar-PWA/) |
 
 ## Jak zainstalować na telefonie?
 
